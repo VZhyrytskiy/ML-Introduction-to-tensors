@@ -2,6 +2,7 @@
 
 ### Install Dependencies
 > npm install
+
 > npm install nodemon -g
 
 ### Run the Project
